@@ -16,7 +16,9 @@ body {
   justify-content: center;
   min-height: 100vh;
   margin: 0;
-  background-color: #f7f7f7;
+  background-image: url("./Image/money-3.gif");
+  /*background-color: #f7f7f7;*/
+  background-color: #cccccc;
 }
 
 .card {
